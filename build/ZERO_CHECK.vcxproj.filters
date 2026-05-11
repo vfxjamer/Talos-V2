@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\PyCharm 2024.1\Rl Bot\Talos V2\build\CMakeFiles\6bfdc14d1bbe3a016d06077d29e3bb7a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{532D6C42-CAFD-3060-BC94-1033A6DB7C51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\bot.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\botmanager.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\botprocess.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\color.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\interface.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\matchsettings.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\namedrenderer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\platform_linux.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\platform_windows.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\renderer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\scopedrenderer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\server.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\sockets_linux.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\sockets_windows.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\src\statesetting.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\rlbot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\rlbot_generated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\bot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\botmanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\botprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\controller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\errorcodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\flatbuffercontainer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\interface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\matchsettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\namedrenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\packets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\scopedrenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\sockets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\inc\rlbot\statesetting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\PyCharm 2024.1\Rl Bot\GigaLearnCPP-Leak\RLBotCPP\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{23749312-7363-36ED-B550-360B7C739E0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1A7B10E2-0D9A-3DBB-AF9D-933894D13CE1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

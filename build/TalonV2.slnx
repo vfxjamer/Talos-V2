@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution>
+	<Configurations>
+		<BuildType Name="Debug"/>
+		<BuildType Name="Release"/>
+		<BuildType Name="MinSizeRel"/>
+		<BuildType Name="RelWithDebInfo"/>
+		<Platform Name="x64"/>
+	</Configurations>
+	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="11112080-efc5-305f-acad-f0f50ea9e7bb" DefaultStartup="true">
+		<BuildDependency Project="GigaLearnCPP-build/GigaLearnCPP.vcxproj"/>
+		<BuildDependency Project="RLBotCPP-build/RLBotCPP.vcxproj"/>
+		<BuildDependency Project="GigaLearnCPP-build/RLGymCPP/RLGymCPP.vcxproj"/>
+		<BuildDependency Project="GigaLearnCPP-build/RLGymCPP/RocketSim/RocketSim.vcxproj"/>
+		<BuildDependency Project="TalonV2Bot.vcxproj"/>
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<Build Solution="Debug|*" Project="false"/>
+		<Build Solution="Release|*" Project="false"/>
+		<Build Solution="MinSizeRel|*" Project="false"/>
+		<Build Solution="RelWithDebInfo|*" Project="false"/>
+	</Project>
+	<Project Path="GigaLearnCPP-build/GigaLearnCPP.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="b1b6e4a1-6f61-3654-81ea-893af08b84f6">
+		<BuildDependency Project="GigaLearnCPP-build/RLGymCPP/RLGymCPP.vcxproj"/>
+		<BuildDependency Project="GigaLearnCPP-build/RLGymCPP/RocketSim/RocketSim.vcxproj"/>
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="RLBotCPP-build/RLBotCPP.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="1b5e6bbc-402d-3c7e-8977-0de4ba1a0fe6">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="GigaLearnCPP-build/RLGymCPP/RLGymCPP.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="99052e90-dc96-36a5-a797-0e7162d07fcb">
+		<BuildDependency Project="GigaLearnCPP-build/RLGymCPP/RocketSim/RocketSim.vcxproj"/>
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="GigaLearnCPP-build/RLGymCPP/RocketSim/RocketSim.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="d80ff30c-fc79-3a5b-942e-058df8b0fe98">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="TalonV2Bot.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="8f16cf4d-c2a0-34fc-85f2-54bb1a834bcc">
+		<BuildDependency Project="GigaLearnCPP-build/GigaLearnCPP.vcxproj"/>
+		<BuildDependency Project="RLBotCPP-build/RLBotCPP.vcxproj"/>
+		<BuildDependency Project="GigaLearnCPP-build/RLGymCPP/RLGymCPP.vcxproj"/>
+		<BuildDependency Project="GigaLearnCPP-build/RLGymCPP/RocketSim/RocketSim.vcxproj"/>
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="0762a385-f3bf-39fb-ae3d-b339dea95cc8"/>
+</Solution>
