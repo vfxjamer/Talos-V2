@@ -1,0 +1,54 @@
+Initializing RocketSim version 2.1.1, created by ZealanL...
+Loading arena meshes for soccar...
+   > Loaded 483 verts and 880 tris, hash: 0xa160baf9
+   > Loaded 483 verts and 880 tris, hash: 0x2811eee8
+   > Loaded 80 verts and 126 tris, hash: 0xb81ac8b9
+   > Loaded 80 verts and 126 tris, hash: 0x760358d3
+   > Loaded 80 verts and 126 tris, hash: 0x73ae4940
+   > Loaded 80 verts and 126 tris, hash: 0x918f4a4e
+   > Loaded 18 verts and 16 tris, hash: 0x1f8ee550
+   > Loaded 18 verts and 16 tris, hash: 0x255ba8c1
+   > Loaded 483 verts and 880 tris, hash: 0x14b84668
+   > Loaded 483 verts and 880 tris, hash: 0xec759ebf
+   > Loaded 536 verts and 983 tris, hash: 0x94fb0d5c
+   > Loaded 536 verts and 983 tris, hash: 0xdea07102
+   > Loaded 536 verts and 983 tris, hash: 0xbd4fbea8
+   > Loaded 536 verts and 983 tris, hash: 0x39a47f63
+   > Loaded 18 verts and 16 tris, hash: 0x3d79d25d
+   > Loaded 18 verts and 16 tris, hash: 0xd84c7a68
+RocketSim::Init(): Finished loading arena collision meshes:
+ > Soccar: 16
+ > Hoops: 0
+Finished initializing RocketSim in 0.186s!
+
+============================================================
+  TALON V2 - 10-Phase Progressive Training (GigaLearnCPP)
+============================================================
+  Phase:       Phase 1: Kickoff Mastery
+  Goal:        Kickoffs, first touches, speed flips, positioning
+  Target:      1000000000 steps
+  Gamma:       0.990
+  Entropy:     0.05
+  Network:     1024x4 LEAKY_RELU + LayerNorm
+  Mode:        1v1 only | Octane hitbox
+============================================================
+
+Learner::Learner():
+	Checkpoint Save/Load Dir: "checkpoints"
+	Using CPU device...
+	Initializing RocketSim...
+	Creating envs...
+	Making PPO learner...
+PPOLearner: Set learning rate to [3.000000e-04, 3.000000e-04]
+Model parameter counts:
+	"critic": 4,207,617
+	"policy": 4,298,842
+	"shared_head": 3,288,064
+	[Total]: 11,794,523
+Loading most recent checkpoint in "checkpoints"...
+ > No checkpoints found, starting new model.
+========================================
+Learner::Start():
+	Obs size: 127
+	Action amount: 90
+Press 'Q' to save and quit!
